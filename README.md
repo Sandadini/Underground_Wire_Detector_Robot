@@ -58,11 +58,11 @@ A robotic car system for detecting and mapping underground wires using a GY-271 
 
 ### PCB Bottom View
 
-![PCB Bottom View](pcb_bottom.png)
+![PCB Bottom View](PCB_Bottom.png)
 
 ### PCB Top View
 
-![PCB Top View](pcb_top.png)
+![PCB Top View](PCB_Top.png)
 
 ---
 
